@@ -1,0 +1,13 @@
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.exe
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.deps.json
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.runtimeconfig.json
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.runtimeconfig.dev.json
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.dll
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\bin\Debug\netcoreapp3.1\Test psaní 19.3.pdb
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.csprojAssemblyReference.cache
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.AssemblyInfoInputs.cache
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.AssemblyInfo.cs
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.csproj.CoreCompileInputs.cache
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.dll
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.pdb
+E:\c#\Console\Test psaní 19.3\Test psaní 19.3\obj\Debug\netcoreapp3.1\Test psaní 19.3.genruntimeconfig.cache
